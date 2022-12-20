@@ -1,0 +1,10 @@
+.title {
+    display: flex;
+    flex-direction: column;
+}
+
+.title div {
+    margin: 0 auto;
+    font-family: 'Milkshake';
+    font-size: 36px;
+}
